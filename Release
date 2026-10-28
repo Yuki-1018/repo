@@ -3,24 +3,22 @@ Label: Yuki Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64
 Components: main
-Description: Yuki-1018's Jailbreak Repository - High-Fidelity iOS 17/18+ Compatibility Tweaks (Compat16)
+Description: Yuki iOS 16 Tweaks & Compatibility Fixes
+Date: Wed, 28 Oct 2026 07:55:29 +0000
 MD5Sum:
- 21c3f9d31c077a7796e162180c8516ff             4354 Packages
- cec06bcae69b9524c0b4993521f7ca88             1097 Packages.gz
- 5957c26f56be5f7c3c83b4760f993e1e             1264 Packages.bz2
- 4628daf8f3abe4c3eebcfe5bc2eb502b             1076 Packages.xz
- e9beac506bc9e6521ea56498a52956a6             1025 Packages.zst
+ 2065c817e895ca838bfdf19edadd90b6 679 Packages
+ 751cf6d23875db463fbdcbbfd89e0018 497 Packages.gz
+ eba59708c5d4a245ebb2d4ff58433763 576 Packages.xz
+ 1cd7dbc5f237a22c04300d2c5e8cd1e3 494 Packages.zst
 SHA1:
- b5290b9de12671f71c7fa31d8a8e533ba7bfd5aa             4354 Packages
- fb4ce147200fd6a46e7721d897b71db2b6110050             1097 Packages.gz
- 5f3091e13acc9a858f8b14e7c69d559b053d2e0a             1264 Packages.bz2
- bc0f630869628e3518fdb542d302aba58d7b0d7d             1076 Packages.xz
- d0a70f804eeedd240be962927dd32e327de85af5             1025 Packages.zst
+ 10124529c8142bd0e719dacebfb72b84156c626a 679 Packages
+ 392ee6719d2bee9e08c21f66881769dd30cfc7b2 497 Packages.gz
+ c759f415601bef8b1f56b7889f127ddf88f61f64 576 Packages.xz
+ b85308b2a1964e5297300ca4f06f8b289ad1ff08 494 Packages.zst
 SHA256:
- 5fd9b769218c0ad12bf3d8265314b0f85796cf927f974095d40594216f5b2cc7             4354 Packages
- d843975fa50557a1f203fc02439d048311522af6bdd6da69ced7c2e7430bfb3d             1097 Packages.gz
- cbde9240977cbcd91b2195a8c664523599da4a2ada062a09d701811fe67dd4a7             1264 Packages.bz2
- 15b05be93966c0622a41be7db04c97648e10a09c687d430f3d24bd2c1d9accf5             1076 Packages.xz
- 52e4ecd03a44fb715f4fe345b9c98a0a6d081ef22a4c80ed2bf4dd463e7c9d24             1025 Packages.zst
+ 140762361cf887cdffc4b29626d699a473cb69bb31ebd45e69361ca1c4ac31fc 679 Packages
+ f0ee9fb6e6e80b361e75c00861f87a31cd9a7db9ab67d4a8dd4b3b049f842012 497 Packages.gz
+ db144a3491915ea4178ecba901629ba738fc819c082a7f2f91cfd70ec9fd669f 576 Packages.xz
+ ca2f7d5bb3b5d0fa6c7cb2fdd7750e8e0f6513b6f3cbbd808d1880abb9bc4c38 494 Packages.zst
