@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Yuki iOS 16 Tweaks & Compatibility Fixes
-Date: Wed, 28 Oct 2026 08:28:21 +0000
+Date: Wed, 28 Oct 2026 08:49:45 +0000
 MD5Sum:
- 9fc3c3d781cc884c6a6be0e8dd3ead1a 679 Packages
- b1896e460aaed90ba79d8f4a9188dbc4 498 Packages.gz
- ae08ff5babba46c1d67fa89ee57beb49 576 Packages.xz
- b130355fad1f10e96785d5dae3a2917d 494 Packages.zst
+ da27426f465f2642c25b53d4a15dc7a5 679 Packages
+ a9aa5ef07e2efa7699f0feb360d9e90f 499 Packages.gz
+ d3f8d89aec434d23df8fbcbadb3267bf 576 Packages.xz
+ bcf2e52002bac646576c92839c3efd05 490 Packages.zst
 SHA1:
- f6d84140a9283839c1b764cebf3567ea3a5b5603 679 Packages
- 7d2f9b5afcf26152aca5ea28e0fec247f79fbeeb 498 Packages.gz
- d5b3d634978fae247773edf80456349cee93642d 576 Packages.xz
- 3c3fc846a49b7ba19e8a4eec5388484003f1e69e 494 Packages.zst
+ 68c0237509c591db739ed4728134b3d216dd0529 679 Packages
+ b6023e6c3e0b5ed6df12c802296b36cd9ee4b524 499 Packages.gz
+ b2c2db64d9e5f25925fd6efe0e768d7318016cc3 576 Packages.xz
+ a6d695a2daffaff29e59a48e14403742692d0cca 490 Packages.zst
 SHA256:
- 37cc51036a39277107d868e0cacb39632993f5a84e8849ca12a97daac41df930 679 Packages
- b60fb48fd80d374f0f48af6e4eb81916ac7e268fbe5dee2ec44216925972e912 498 Packages.gz
- ccb739e5edbd664d9686cc4e07a4539eba1cd7e670726c11397d3a9501faaf99 576 Packages.xz
- 384e2701eee5b1c184f036dc56c438357c2b246057f0f84796c5d0e418ba7524 494 Packages.zst
+ 567e2142d34d585a591b5081c8d522375b3c95af35ae8f6ea6ae33c582f8c4f3 679 Packages
+ 268fc9237e44bc0a82cc3c55e289515fd0bb7a32dd7d93e3d53ece9719f31ae9 499 Packages.gz
+ e4c234e35ee935b9d242f9f552e73368d4b5e00dd55da55ae59dcf79e3525a73 576 Packages.xz
+ f096e47d814818a5a4303585f80beb4d5fc96c8ed7af769c2e03e019438341fa 490 Packages.zst
