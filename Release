@@ -7,20 +7,20 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Yuki-1018's Jailbreak Repository - High-Fidelity iOS 17/18+ Compatibility Tweaks (Compat16)
 MD5Sum:
- 9ea0b58128ea1d1d03d7fd91b1ce9a0a             1244 Packages
- bf96be4e1791312a0a7954ad4b86606f              562 Packages.gz
- 29ec3b514b2edebd9128268017c029ff              680 Packages.bz2
- 3060cb7b1c25b7ad802a7edb11ffb58c              624 Packages.xz
- 15969f23d5c596859fad941dc6f5fc8e              552 Packages.zst
+ c38cb5d5d19086bf1eb9cf52abdae1d6             1866 Packages
+ 0e5aa4d65b06c58dd865d56f28b41902              674 Packages.gz
+ dbe875e0fd3b561ddae2b7f28732dc7f              842 Packages.bz2
+ bc00d587e204d683f5b2250d6aebab3d              720 Packages.xz
+ d2e4c7c602b742b5443b964ca5902cbf              656 Packages.zst
 SHA1:
- 61aa7618f6e9afda98f0e1a30ed5b5b6a5ac3368             1244 Packages
- d03935e0d32e1111fa0c81c295195e536e6722d2              562 Packages.gz
- 192be8db46d109230c8a9102e10833cf8300bcac              680 Packages.bz2
- df86826ffbc5014d1aac4acc861a51a1eefdff53              624 Packages.xz
- 886da7980e47ea16485ad74e3cc92ac8d2eaf3f0              552 Packages.zst
+ e5b46ab8c1ad766a6a22ea72abf2a607fa6df1a4             1866 Packages
+ d0026c33be3c76bcba2b19098d37870c993ff22d              674 Packages.gz
+ 9701c822ae798a4daca043e1de546462f5e21933              842 Packages.bz2
+ f0697853c9567da73c52fe0b1843ab9694e2553a              720 Packages.xz
+ 12187bec0747938c0edb0ea72ef2da5952040ecf              656 Packages.zst
 SHA256:
- 2702cd6a8f4b566bdb2d3309e56ed82898e85b9963d6b67c2c533eca146486ad             1244 Packages
- 33d690d43e2e9edb5183c32db5ab91b131e2c86503548989435b833a99840f89              562 Packages.gz
- 8e338f84ebdd817e13b1967b47484a03ae57dec81689435f934b741076155be5              680 Packages.bz2
- 832c13f831544c3a593a8e5ddbbb976f4e9948bf98879422255891ccf878bf4e              624 Packages.xz
- 5b463f0d4cc0aceb5fb4973eed4b11afbdd750e424d49ea120456f935046c850              552 Packages.zst
+ c74b11b54ae3a2a843a1e20289809a2f8ac5907788c8b66e2a9fa2f4626c5389             1866 Packages
+ a0f70c3884e00406c31f3947d4d22738230b9dd56e9315ed13e1f48d5358f17a              674 Packages.gz
+ be647a28a280ddb0739a10b46aa3115fd96be592870ba9741afe3fe940e69aff              842 Packages.bz2
+ 237b2c54d59dd71f12e236c66d3105a15767fb82d28b13782937816d1fbacc4c              720 Packages.xz
+ f376123dfc9b9dfff1f798187590555a7fc927636b3f5a925886639bcbb5b361              656 Packages.zst
