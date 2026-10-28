@@ -5,10 +5,10 @@ Maintainer: Yuki-1018
 Installed-Size: 384
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: debs/com.yukiproject.linefix16_1.0.0_iphoneos-arm64.deb
-Size: 53060
-MD5sum: 95d1231cea812857813ce5b7cba524de
-SHA1: 6959dba9083f59136a1dfeb2d3b1e8fe439db7fc
-SHA256: 024f80d3c747f7223431591424d6987c565219e1bc02a3e3c63596fab36c4f73
+Size: 53874
+MD5sum: 3e1569ed49227fd27b2d8f09f7b2c22b
+SHA1: 9358b0ee418d89cc4fab649a8376e0a925e668cf
+SHA256: 2a0d5fa8ec956f323504a1fbe700b553dc2da94d66e255e50cb29b10be69bed4
 Section: Tweaks
 Description: Dedicated compatibility fix for LINE on iOS 16 (Dopamine rootless). Patches SwiftData & libswiftSynchronization dyld missing dependencies and backports modern APIs. Includes log viewer in Settings.
 Author: Yuki-1018
