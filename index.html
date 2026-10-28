@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yuki Repo - Jailbreak Tweaks</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --sub-color: #94a3b8;
+            --accent: #38bdf8;
+            --sileo-color: #2c97de;
+            --zebra-color: #e27d60;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 500px;
+            width: 100%;
+            margin-top: 40px;
+            text-align: center;
+        }
+        .icon {
+            width: 100px;
+            height: 100px;
+            border-radius: 22px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 28px;
+            margin: 0 0 8px 0;
+            font-weight: 700;
+        }
+        p.subtitle {
+            color: var(--sub-color);
+            font-size: 15px;
+            margin: 0 0 30px 0;
+            line-height: 1.5;
+        }
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 35px;
+        }
+        .btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 14px 20px;
+            border-radius: 14px;
+            text-decoration: none;
+            color: #fff;
+            font-weight: 600;
+            font-size: 16px;
+            transition: transform 0.15s ease, opacity 0.15s ease;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+        }
+        .btn:active {
+            transform: scale(0.98);
+            opacity: 0.9;
+        }
+        .btn-sileo {
+            background: linear-gradient(135deg, #0088cc, var(--sileo-color));
+        }
+        .btn-zebra {
+            background: linear-gradient(135deg, #d35400, var(--zebra-color));
+        }
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 16px;
+            padding: 20px;
+            text-align: left;
+            margin-bottom: 20px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .card h2 {
+            font-size: 18px;
+            margin-top: 0;
+            margin-bottom: 8px;
+            color: var(--accent);
+        }
+        .card p {
+            color: var(--sub-color);
+            font-size: 14px;
+            line-height: 1.6;
+            margin: 0;
+        }
+        .badge {
+            display: inline-block;
+            background: rgba(56, 189, 248, 0.15);
+            color: var(--accent);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        footer {
+            margin-top: auto;
+            color: #64748b;
+            font-size: 13px;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="CydiaIcon.png" alt="Yuki Repo Icon" class="icon">
+        <h1>Yuki Repo</h1>
+        <p class="subtitle">High-Fidelity iOS 17/18+ Compatibility Tweaks for Rootless Jailbreaks (iOS 15 / 16)</p>
+
+        <div class="btn-group">
+            <a href="#" id="add-sileo" class="btn btn-sileo">Add to Sileo</a>
+            <a href="#" id="add-zebra" class="btn btn-zebra">Add to Zebra</a>
+        </div>
+
+        <div class="card">
+            <span class="badge">Featured Tweak</span>
+            <h2>Compat16 (v3.0.0)</h2>
+            <p>Run iOS 17, 18, 26+ designed applications and games on iOS 15 &amp; 16 without layout breakage or crashes. High-fidelity native API polyfills and Concurrency runtime bridges.</p>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2026 Yuki-1018. All rights reserved.
+    </footer>
+
+    <script>
+        // Dynamically compute repository URL based on current hosting location
+        const repoUrl = window.location.href.split('?')[0].split('#')[0].replace(/\/index\.html$/, '').replace(/\/$/, '');
+        document.getElementById('add-sileo').href = 'sileo://source/' + encodeURIComponent(repoUrl);
+        document.getElementById('add-zebra').href = 'zbra://sources/add/' + encodeURIComponent(repoUrl);
+    </script>
+</body>
+</html>

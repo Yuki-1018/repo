@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedSileoBannerView",
+  "itemCornerRadius": 10,
+  "itemSize": "{w, 140}",
+  "banners": [
+    {
+      "url": "https://raw.githubusercontent.com/Yuki-1018/Yuki-1018.github.io/main/assets/banner.png",
+      "title": "Compat16",
+      "package": "com.yukiproject.compat16",
+      "hideShadow": false
+    }
+  ]
+}

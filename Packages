@@ -1,0 +1,16 @@
+Package: com.yukiproject.compat16
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: Yuki-1018
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.yukiproject.compat16_3.0.0_iphoneos-arm64.deb
+Size: 40556
+MD5sum: eab05b238debe8e02cb7a8c75afd3df1
+SHA1: e59d9cba9799b870601a8f9471d2227731ae8a93
+SHA256: 21360d7cf5112e29fd15eb8e0d1d8c177f6d2591a28789de63244a1ab5edb220
+Section: Tweaks
+Description: Run iOS 17/18/26+ designed apps on iOS 15/16! Backports missing APIs, resolves missing symbols, and safely handles missing classes & selectors.
+Author: Yuki-1018
+Name: Compat16
+

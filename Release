@@ -1,0 +1,26 @@
+Origin: Yuki Repo
+Label: Yuki Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Yuki-1018's Jailbreak Repository - High-Fidelity iOS 17/18+ Compatibility Tweaks (Compat16)
+MD5Sum:
+ 0b3f0ff09fc410c2bd6d0b5a20fa844c              622 Packages
+ b02fff0b00dfe4fde013a595b18417b8              449 Packages.gz
+ b838d7240511a677261179683fe31b7e              487 Packages.bz2
+ ce6912fc15f23b534a4a170495415072              516 Packages.xz
+ 4b1fc6a1ce8351eee7d0b48e221b8a4b              443 Packages.zst
+SHA1:
+ 8d0fce927fdde8844a6ab9eb35b3ec341e8d1e5e              622 Packages
+ 7177fb6c64b688ccf06496b4e0020310e7697ee2              449 Packages.gz
+ 1b3abc4340463f4c45f43710924d97ba665b4719              487 Packages.bz2
+ 8455d4c72cfc17260a5f101fdb616b6f935b3985              516 Packages.xz
+ e9196e31781efee89ab0fb6d9831cd0159db7d29              443 Packages.zst
+SHA256:
+ 4fb73ec640d68c277812d29583a1d65c4a43dddfc2d801a15adec58db1a49c76              622 Packages
+ d5252450b66153826be3c60f4f235ced8dada590ec1ac5f2f93f278d58ee554f              449 Packages.gz
+ f46b8ad01ef1c8d7c0b91e3f881da35d54778d32a96e659f282d91f8ce7c2000              487 Packages.bz2
+ 079f9a4910dbf29341be878199f9b08bf1eff9b2a881b4312c549a141b3a6419              516 Packages.xz
+ ea725f85184fac062d1f1825c731c99ecef5f65cbdb68cee543233aaa130062a              443 Packages.zst
