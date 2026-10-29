@@ -30,3 +30,19 @@ Description: Dedicated compatibility fix for LINE on iOS 16 (Dopamine rootless).
 Author: Yuki-1018
 Name: LineFix16
 
+Package: com.yukiproject.linefix16
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Yuki-1018
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.yukiproject.linefix16_1.0.7_iphoneos-arm64.deb
+Size: 64960
+MD5sum: 644fefc6796898a1b1c2eb7937dce1b6
+SHA1: bf6d91be6f9085f1aed994524426f08911dae498
+SHA256: 26638f90eaed31f1cc305e18ad0f1e4167d8f714774b80814acb30360a77907a
+Section: Tweaks
+Description: Dedicated compatibility fix for LINE on iOS 16 (Dopamine rootless). Patches SwiftData & libswiftSynchronization dyld missing dependencies and backports modern APIs. Includes log viewer in Settings.
+Author: Yuki-1018
+Name: LineFix16
+
